@@ -1,0 +1,24 @@
+{
+  "name": "react-native-nfc-ios",
+  "version": "0.0.1-alpha3",
+  "description": "Use iOS 11+ CoreNFC with React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "nfc",
+    "ndef"
+  ],
+  "homepage": "https://github.com/barodeur/react-native-nfc-ios",
+  "author": "Paul Chobert <paul@chobert.fr>",
+  "nativePackage": true,
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "dependencies": {}
+}
