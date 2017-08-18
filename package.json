@@ -4,7 +4,7 @@
   "description": "Use iOS 11+ CoreNFC with React Native",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,25 @@
   "nativePackage": true,
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.47.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "^20.0.3",
+    "babel-preset-react-native": "^2.1.0",
+    "jest": "^20.0.4",
+    "jest-react-native": "^18.0.0",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.47.1"
+  },
+  "jest": {
+    "preset": "react-native",
+    "globals": {
+      "__DEV__": true
+    },
+    "testRegex": ".*\\.test\\.js$",
+    "setupFiles": [
+      "./jest/setup.js"
+    ]
+  }
 }
