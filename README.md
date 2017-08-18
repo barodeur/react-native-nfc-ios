@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/barodeur/react-native-nfc-ios.svg?branch=master)](https://travis-ci.org/barodeur/react-native-nfc-ios)
+[![npm version](https://badge.fury.io/js/react-native-nfc-ios.svg)](https://badge.fury.io/js/react-native-nfc-ios)
 
 # React Native NFC for iOS
 
