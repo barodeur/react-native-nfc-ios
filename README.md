@@ -4,6 +4,10 @@
 
 > ⚠️ iOS11 is only available as beta 4, you should use Xcode 9 beta to build your project.
 
+## Demo
+
+![DEMO](https://user-images.githubusercontent.com/303170/29473145-9b93f8b4-8424-11e7-93f8-e286580df1e6.gif)
+
 ## How to use
 
 ## Installation
