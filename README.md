@@ -5,7 +5,7 @@
 
 > ⚠️ Apple CoreNFC is only available for iOS11 on iPhone 7 and iPhone 7 Plus devices.
 
-> ⚠️ iOS11 is only available as beta 4, you should use Xcode 9 beta to build your project.
+> ⚠️ iOS11 is only available as beta 5, you should use Xcode 9 beta to build your project.
 
 ## Demo
 
