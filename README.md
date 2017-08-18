@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/barodeur/react-native-nfc-ios.svg?branch=master)](https://travis-ci.org/barodeur/react-native-nfc-ios)
+
 # React Native NFC for iOS
 
 > ⚠️ Apple CoreNFC is only available for iOS11 on iPhone 7 and iPhone 7 Plus devices.
