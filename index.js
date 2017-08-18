@@ -107,7 +107,6 @@ export class NFCNDEFReaderSession {
 
   begin() {
     this.ensureExists();
-    console.log(`JS: begin for session id: ${this.id}`)
     nativeModule.NFCNDEFReaderSession_begin(this.id);
   }
 
