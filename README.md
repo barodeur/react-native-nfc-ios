@@ -6,7 +6,7 @@
 > ⚠️ Apple CoreNFC is only available for iOS11 on iPhone 7 and iPhone 7 Plus devices.
 > It does not seems to be available on simulator at the moment, but it should be available later.
 
-> ⚠️ iOS11 is currently available as beta 7, you should use Xcode 9 beta 6 to build your project.
+> ⚠️ iOS11 is currently available as beta 8, you should use Xcode 9 beta 6 to build your project.
 > This project is updated and tested frequetly against new beta releases.
 
 ## Demo
