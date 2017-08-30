@@ -130,7 +130,7 @@ As with the native CoreNFC API you can set the alert message
 
 ```javascript
 // With the Simple API
-const messages = await NFCNDEFReaderSession({
+const messages = await NFCNDEFReaderSession.readTag({
   alertMessage: 'Please put your NFC Tag',
 });
 
