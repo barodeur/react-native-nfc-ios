@@ -1,6 +1,6 @@
 {
   "name": "react-native-nfc-ios",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Use iOS 11+ CoreNFC with React Native",
   "main": "index.js",
   "scripts": {
