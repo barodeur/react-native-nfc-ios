@@ -115,7 +115,7 @@ readerSession.invalidate();
 readerSession.removeEventListener('NDEFMessages', listener);
 
 // Or Remove all events listeners
-readerSession.removeAllEventListeners('NDEFMessages');
+readerSession.removeAllListeners('NDEFMessages');
 
 // ⚠️ Release the native instance to free memory
 readerSession.release();
