@@ -1,3 +1,12 @@
+# ⚠️ Deprecated ⚠️
+
+This project is deprecated. It has not been updated since React Native 0.48 and probably doesn't work on recent version of React Native anymore.
+
+I would suggest to use [`react-native-nfc-manager`](https://www.npmjs.com/package/react-native-nfc-manager) as alternative.
+
+---
+
+
 [![Build Status](https://travis-ci.org/barodeur/react-native-nfc-ios.svg?branch=master)](https://travis-ci.org/barodeur/react-native-nfc-ios)
 [![npm version](https://badge.fury.io/js/react-native-nfc-ios.svg)](https://badge.fury.io/js/react-native-nfc-ios)
 
